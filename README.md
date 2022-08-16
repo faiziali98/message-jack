@@ -1,6 +1,6 @@
-# message_jack
+# Message Jack
 
-A new Flutter project.
+Get messages from multiple phones to single one using private cloud.
 
 ## Getting Started
 
